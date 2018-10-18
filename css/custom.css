@@ -1,0 +1,62 @@
+/*////////////////////////////////////////////
+/// Edgardo Pinto-Escalier
+/// Project name - Cleaning Status
+/// File name: custom.css
+////////////////////////////////////////////*/
+
+.site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.site-content {
+  flex: 1;
+}
+
+img#profilePic {
+	border: 2px solid #ccc;
+}
+
+a#deleteUser i.fa.fa-window-close {
+	color: #fff;
+}
+
+a#deleteUser span {
+	color: #fff;
+}
+
+td#status.has-text-centered a i.fa.fa-pencil-square-o.fa-lg.modal-button.view_stat {
+	color: #000;
+}
+
+td#status.has-text-centered a i.fa.fa-pencil-square-o.fa-lg.modal-button.view_stat:hover {
+	color: red;
+}
+
+tr td.has-text-centered a i.fa.fa-pencil-square-o.fa-lg,
+tr td.has-text-centered a.delete_a i.fa.fa-trash.fa-lg {
+	color: #000;
+}
+
+tr td.has-text-centered a i.fa.fa-pencil-square-o.fa-lg:hover,
+tr td.has-text-centered a.delete_a i.fa.fa-trash.fa-lg:hover {
+	color: red;
+}
+
+i.fa.fa-window-close {
+	color: #000;
+}
+
+i.fa.fa-window-close:hover {
+	color: red;
+}
+
+button.button.delete_users.is-outlined a.delete_users span {
+	color: #000;
+}
+
+
+button.button.delete_users.is-outlined a.delete_users span:hover {
+	color: red;
+}
