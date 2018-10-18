@@ -13,7 +13,7 @@ Cleaning status is a simple web application to manage the cleaning of different 
 - Employees can can update their own user profile details
 
 
-## Some of the things used to develop this project
+## Some of the technologies used to develop this project
 
 - PHP 7.1.22
 - phpMyAdmin
