@@ -53,9 +53,13 @@ $GLOBALS['config'] = array(
 ## Test accounts
 
 **Administrator test account**
+
+
 **Username:** `AdminTest`
 **Password:** `testpassword`
 
 **Employee test account**
+
+
 **Username:** `EmployeeTest	`
 **Password:** `testpassword`
