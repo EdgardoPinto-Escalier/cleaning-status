@@ -47,3 +47,15 @@ $GLOBALS['config'] = array(
 ```
 
 ## Demo Site
+
+[Cleaning Status web platform](http://cleaning-status.web-projects.work/)
+
+## Test accounts
+
+**Administrator test account**
+**Username:** `AdminTest`
+**Password:** `testpassword`
+
+**Employee test account**
+**Username:** `EmployeeTest	`
+**Password:** `testpassword`
