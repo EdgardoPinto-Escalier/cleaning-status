@@ -46,9 +46,6 @@ $GLOBALS['config'] = array(
 );
 ```
 
-## Demo Site
-
-[Cleaning Status web platform](http://cleaning-status.web-projects.work/)
 
 ## Test accounts
 
